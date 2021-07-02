@@ -32,7 +32,7 @@ If this happens to be as useful for others as it was for me - if the idea ends u
 
 ---
 
-![WindowsKeyShortcutsDivided](/WindowsKeyShortcutsDivided.PNG)
+![WindowsKeyShortcutsDivided](/WindowsKeyShortcutsDivided.png)
 
 ## HMU With Your Own Requests
 
